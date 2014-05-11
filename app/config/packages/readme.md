@@ -1,0 +1,1 @@
+php artisan config:publish --path="workbench/foo/bar/src/config" foo/bar

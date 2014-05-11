@@ -1,0 +1,20 @@
+{
+    "name": "frozennode/administrator",
+    "description": "",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Frozennode\\Administrator": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
